@@ -6,4 +6,5 @@ export { default as useClickAway } from './useClickAway';
 export { default as useEventListener } from './useEventListener';
 export { default as useReactiveRef } from './useReactiveRef';
 export { default as useScroll } from './useScroll';
+export { default as useFullScroll } from './useFullScroll';
 export { default as useInViewport } from './useInViewport';

@@ -7,5 +7,6 @@ export default [
   'useEventListener',
   'useReactiveRef',
   'useScroll',
+  'useFullScroll',
   'useInViewport',
 ];
